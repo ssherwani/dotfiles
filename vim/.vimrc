@@ -120,7 +120,7 @@ set tags=./tags,tags;
 
 
 "set rtp+=~/.vim/bundle/vundle/
-call pathogen#infect('~/.vim/bundle')
+call pathogen#infect('~/.vim/bundle/{}')
 
 " Color Scheme
 set t_Co=256          " use 256 color terminal
