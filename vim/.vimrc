@@ -165,6 +165,7 @@ if ! has('gui_running')
     augroup END
 endif
 
+let g:airline_powerline_fonts=1
 
 """"personal keymaps""""
 
